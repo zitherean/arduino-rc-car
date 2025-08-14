@@ -41,7 +41,7 @@ A compact **DIY Arduino RC car** that you can drive with an **IR remote**, while
 * `LEFT_EN_A` → D9 (PWM)
 * `RIGHT_EN_B` → D10 (PWM)
 
-**Ultrasonic:**
+**Ultrasonic Sensor:**
 
 * `TRIG_PIN` → D12
 * `ECHO_PIN` → D13
